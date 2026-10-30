@@ -20,11 +20,12 @@ daily-learning/
 
 ## 进度 / Progress
 
-已完成 Done: **1** 天 day(s) · 🧮 1 · 📝 0
+已完成 Done: **2** 天 day(s) · 🧮 1 · 📝 1
 
 | 日期 Date | 类型 Type | 标题 Title | 链接 Link |
 |---|---|---|---|
 | 2026-10-28 | 🧮 算法 Algorithm | 两数之和 Two Sum（哈希表 hash map） | [algorithms/2026-10-28-two-sum.py](algorithms/2026-10-28-two-sum.py) |
+| 2026-10-29 | 📝 笔记 Note | Git 撤销操作速查 restore / reset / revert / reflog | [notes/2026-10-29-git-undo.md](notes/2026-10-29-git-undo.md) |
 
 ## License
 
