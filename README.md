@@ -20,13 +20,14 @@ daily-learning/
 
 ## 进度 / Progress
 
-已完成 Done: **3** 天 day(s) · 🧮 2 · 📝 1
+已完成 Done: **4** 天 day(s) · 🧮 2 · 📝 2
 
 | 日期 Date | 类型 Type | 标题 Title | 链接 Link |
 |---|---|---|---|
 | 2026-10-28 | 🧮 算法 Algorithm | 两数之和 Two Sum（哈希表 hash map） | [algorithms/2026-10-28-two-sum.py](algorithms/2026-10-28-two-sum.py) |
 | 2026-10-29 | 📝 笔记 Note | Git 撤销操作速查 restore / reset / revert / reflog | [notes/2026-10-29-git-undo.md](notes/2026-10-29-git-undo.md) |
 | 2026-10-30 | 🧮 算法 Algorithm | 无重复字符的最长子串 Longest Substring Without Repeating Characters（滑动窗口 sliding window） | [algorithms/2026-10-30-longest-substring-without-repeating.py](algorithms/2026-10-30-longest-substring-without-repeating.py) |
+| 2026-10-31 | 📝 笔记 Note | Linux 排查端口被占用 ss / lsof / fuser / kill | [notes/2026-10-31-linux-port-in-use.md](notes/2026-10-31-linux-port-in-use.md) |
 
 ## License
 
