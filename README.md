@@ -20,7 +20,7 @@ daily-learning/
 
 ## 进度 / Progress
 
-已完成 Done: **4** 天 day(s) · 🧮 2 · 📝 2
+已完成 Done: **5** 天 day(s) · 🧮 3 · 📝 2
 
 | 日期 Date | 类型 Type | 标题 Title | 链接 Link |
 |---|---|---|---|
@@ -28,6 +28,7 @@ daily-learning/
 | 2026-10-29 | 📝 笔记 Note | Git 撤销操作速查 restore / reset / revert / reflog | [notes/2026-10-29-git-undo.md](notes/2026-10-29-git-undo.md) |
 | 2026-10-30 | 🧮 算法 Algorithm | 无重复字符的最长子串 Longest Substring Without Repeating Characters（滑动窗口 sliding window） | [algorithms/2026-10-30-longest-substring-without-repeating.py](algorithms/2026-10-30-longest-substring-without-repeating.py) |
 | 2026-10-31 | 📝 笔记 Note | Linux 排查端口被占用 ss / lsof / fuser / kill | [notes/2026-10-31-linux-port-in-use.md](notes/2026-10-31-linux-port-in-use.md) |
+| 2026-11-01 | 🧮 算法 Algorithm | 合并区间 Merge Intervals（排序 + 贪心 sort + greedy） | [algorithms/2026-11-01-merge-intervals.py](algorithms/2026-11-01-merge-intervals.py) |
 
 ## License
 
