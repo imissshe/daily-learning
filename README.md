@@ -29,6 +29,7 @@ daily-learning/
 | 2026-10-30 | 🧮 算法 Algorithm | 无重复字符的最长子串 Longest Substring Without Repeating Characters（滑动窗口 sliding window） | [algorithms/2026-10-30-longest-substring-without-repeating.py](algorithms/2026-10-30-longest-substring-without-repeating.py) |
 | 2026-10-31 | 📝 笔记 Note | Linux 排查端口被占用 ss / lsof / fuser / kill | [notes/2026-10-31-linux-port-in-use.md](notes/2026-10-31-linux-port-in-use.md) |
 | 2026-11-01 | 🧮 算法 Algorithm | 合并区间 Merge Intervals（排序 + 贪心 sort + greedy） | [algorithms/2026-11-01-merge-intervals.py](algorithms/2026-11-01-merge-intervals.py) |
+| 2026-11-02 | 📝 笔记 Note | Python 上下文管理器 with / contextlib | [notes/2026-11-02-python-context-manager.md](notes/2026-11-02-python-context-manager.md) |
 
 ## License
 
