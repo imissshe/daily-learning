@@ -20,7 +20,7 @@ daily-learning/
 
 ## 进度 / Progress
 
-已完成 Done: **5** 天 day(s) · 🧮 3 · 📝 2
+已完成 Done: **8** 天 day(s) · 🧮 4 · 📝 4
 
 | 日期 Date | 类型 Type | 标题 Title | 链接 Link |
 |---|---|---|---|
@@ -31,6 +31,7 @@ daily-learning/
 | 2026-11-01 | 🧮 算法 Algorithm | 合并区间 Merge Intervals（排序 + 贪心 sort + greedy） | [algorithms/2026-11-01-merge-intervals.py](algorithms/2026-11-01-merge-intervals.py) |
 | 2026-11-02 | 📝 笔记 Note | Python 上下文管理器 with / contextlib | [notes/2026-11-02-python-context-manager.md](notes/2026-11-02-python-context-manager.md) |
 | 2026-11-03 | 🧮 算法 Algorithm | 岛屿数量 Number of Islands（BFS 网格遍历） | [algorithms/2026-11-03-number-of-islands.py](algorithms/2026-11-03-number-of-islands.py) |
+| 2026-11-04 | 📝 笔记 Note | 用 curl 调试 HTTP 请求速查 | [notes/2026-11-04-curl-http-debug.md](notes/2026-11-04-curl-http-debug.md) |
 
 ## License
 
