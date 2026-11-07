@@ -20,7 +20,7 @@ daily-learning/
 
 ## 进度 / Progress
 
-已完成 Done: **9** 天 day(s) · 🧮 5 · 📝 4
+已完成 Done: **10** 天 day(s) · 🧮 5 · 📝 5
 
 | 日期 Date | 类型 Type | 标题 Title | 链接 Link |
 |---|---|---|---|
@@ -33,6 +33,7 @@ daily-learning/
 | 2026-11-03 | 🧮 算法 Algorithm | 岛屿数量 Number of Islands（BFS 网格遍历） | [algorithms/2026-11-03-number-of-islands.py](algorithms/2026-11-03-number-of-islands.py) |
 | 2026-11-04 | 📝 笔记 Note | 用 curl 调试 HTTP 请求速查 | [notes/2026-11-04-curl-http-debug.md](notes/2026-11-04-curl-http-debug.md) |
 | 2026-11-05 | 🧮 算法 Algorithm | 打家劫舍 House Robber（动态规划 DP / Kadane 风格滚动） | [algorithms/2026-11-05-house-robber.py](algorithms/2026-11-05-house-robber.py) |
+| 2026-11-06 | 📝 笔记 Note | Python pathlib 用对象代替字符串拼路径 | [notes/2026-11-06-python-pathlib.md](notes/2026-11-06-python-pathlib.md) |
 
 ## License
 
