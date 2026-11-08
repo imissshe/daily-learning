@@ -20,7 +20,7 @@ daily-learning/
 
 ## 进度 / Progress
 
-已完成 Done: **10** 天 day(s) · 🧮 5 · 📝 5
+已完成 Done: **11** 天 day(s) · 🧮 6 · 📝 5
 
 | 日期 Date | 类型 Type | 标题 Title | 链接 Link |
 |---|---|---|---|
@@ -34,6 +34,7 @@ daily-learning/
 | 2026-11-04 | 📝 笔记 Note | 用 curl 调试 HTTP 请求速查 | [notes/2026-11-04-curl-http-debug.md](notes/2026-11-04-curl-http-debug.md) |
 | 2026-11-05 | 🧮 算法 Algorithm | 打家劫舍 House Robber（动态规划 DP / Kadane 风格滚动） | [algorithms/2026-11-05-house-robber.py](algorithms/2026-11-05-house-robber.py) |
 | 2026-11-06 | 📝 笔记 Note | Python pathlib 用对象代替字符串拼路径 | [notes/2026-11-06-python-pathlib.md](notes/2026-11-06-python-pathlib.md) |
+| 2026-11-07 | 🧮 算法 Algorithm | 课程表 Course Schedule（拓扑排序 Kahn BFS 判环） | [algorithms/2026-11-07-course-schedule.py](algorithms/2026-11-07-course-schedule.py) |
 
 ## License
 
