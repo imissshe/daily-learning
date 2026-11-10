@@ -20,7 +20,7 @@ daily-learning/
 
 ## 进度 / Progress
 
-已完成 Done: **12** 天 day(s) · 🧮 7 · 📝 5
+已完成 Done: **13** 天 day(s) · 🧮 7 · 📝 6
 
 | 日期 Date | 类型 Type | 标题 Title | 链接 Link |
 |---|---|---|---|
@@ -36,6 +36,7 @@ daily-learning/
 | 2026-11-06 | 📝 笔记 Note | Python pathlib 用对象代替字符串拼路径 | [notes/2026-11-06-python-pathlib.md](notes/2026-11-06-python-pathlib.md) |
 | 2026-11-07 | 🧮 算法 Algorithm | 课程表 Course Schedule（拓扑排序 Kahn BFS 判环） | [algorithms/2026-11-07-course-schedule.py](algorithms/2026-11-07-course-schedule.py) |
 | 2026-11-08 | 🧮 算法 Algorithm | 搜索旋转排序数组 Search in Rotated Sorted Array（二分查找 binary search） | [algorithms/2026-11-08-search-rotated-sorted-array.py](algorithms/2026-11-08-search-rotated-sorted-array.py) |
+| 2026-11-09 | 📝 笔记 Note | Git bisect 二分定位引入 bug 的提交（含 bisect run 自动化） | [notes/2026-11-09-git-bisect.md](notes/2026-11-09-git-bisect.md) |
 
 ## License
 
