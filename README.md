@@ -20,7 +20,7 @@ daily-learning/
 
 ## 进度 / Progress
 
-已完成 Done: **15** 天 day(s) · 🧮 8 · 📝 7
+已完成 Done: **16** 天 day(s) · 🧮 9 · 📝 7
 
 | 日期 Date | 类型 Type | 标题 Title | 链接 Link |
 |---|---|---|---|
@@ -39,6 +39,7 @@ daily-learning/
 | 2026-11-09 | 📝 笔记 Note | Git bisect 二分定位引入 bug 的提交（含 bisect run 自动化） | [notes/2026-11-09-git-bisect.md](notes/2026-11-09-git-bisect.md) |
 | 2026-11-10 | 🧮 算法 Algorithm | 最长递增子序列 Longest Increasing Subsequence（贪心 + 二分 patience sorting） | [algorithms/2026-11-10-longest-increasing-subsequence.py](algorithms/2026-11-10-longest-increasing-subsequence.py) |
 | 2026-11-11 | 📝 笔记 Note | Python 生成器与 itertools：yield / yield from / 惰性管道 | [notes/2026-11-11-python-generators-itertools.md](notes/2026-11-11-python-generators-itertools.md) |
+| 2026-11-12 | 🧮 算法 Algorithm | 网络延迟时间 Network Delay Time（Dijkstra 堆优化最短路） | [algorithms/2026-11-12-network-delay-time.py](algorithms/2026-11-12-network-delay-time.py) |
 
 ## License
 
