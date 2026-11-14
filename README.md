@@ -20,7 +20,7 @@ daily-learning/
 
 ## 进度 / Progress
 
-已完成 Done: **16** 天 day(s) · 🧮 9 · 📝 7
+已完成 Done: **17** 天 day(s) · 🧮 9 · 📝 8
 
 | 日期 Date | 类型 Type | 标题 Title | 链接 Link |
 |---|---|---|---|
@@ -40,6 +40,7 @@ daily-learning/
 | 2026-11-10 | 🧮 算法 Algorithm | 最长递增子序列 Longest Increasing Subsequence（贪心 + 二分 patience sorting） | [algorithms/2026-11-10-longest-increasing-subsequence.py](algorithms/2026-11-10-longest-increasing-subsequence.py) |
 | 2026-11-11 | 📝 笔记 Note | Python 生成器与 itertools：yield / yield from / 惰性管道 | [notes/2026-11-11-python-generators-itertools.md](notes/2026-11-11-python-generators-itertools.md) |
 | 2026-11-12 | 🧮 算法 Algorithm | 网络延迟时间 Network Delay Time（Dijkstra 堆优化最短路） | [algorithms/2026-11-12-network-delay-time.py](algorithms/2026-11-12-network-delay-time.py) |
+| 2026-11-13 | 📝 笔记 Note | Python logging 实战：分级、Handler、文件轮转、dictConfig | [notes/2026-11-13-python-logging.md](notes/2026-11-13-python-logging.md) |
 
 ## License
 
