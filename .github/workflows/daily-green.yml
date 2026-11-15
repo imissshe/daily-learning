@@ -1,0 +1,38 @@
+# 每天补齐贡献次数：目标每天 10 次（UTC 日期）
+# 原理：提交的作者邮箱关联到 GitHub 账号即计入贡献图；
+# 本工作流用用户本人的 noreply 邮箱作为作者/提交者，因此计入 imissshe 的贡献。
+# 只在 schedule / 手动触发下运行，不监听 push，避免自己触发自己。
+name: daily-green
+
+on:
+  schedule:
+    # 每 3 小时跑一次（UTC），每次把当天的次数补到 10 次
+    - cron: "0 */3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-green
+  cancel-in-progress: false
+
+jobs:
+  topup:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Configure git identity
+        run: |
+          git config user.name "imissshe"
+          git config user.email "84082201+imissshe@users.noreply.github.com"
+
+      - name: Top up today's contributions to 10
+        run: python3 scripts/daily_topup.py
+
+      - name: Push
+        run: git push origin main
