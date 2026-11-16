@@ -20,7 +20,7 @@ daily-learning/
 
 ## 进度 / Progress
 
-已完成 Done: **18** 天 day(s) · 🧮 10 · 📝 8
+已完成 Done: **19** 天 day(s) · 🧮 10 · 📝 9
 
 | 日期 Date | 类型 Type | 标题 Title | 链接 Link |
 |---|---|---|---|
@@ -42,6 +42,7 @@ daily-learning/
 | 2026-11-12 | 🧮 算法 Algorithm | 网络延迟时间 Network Delay Time（Dijkstra 堆优化最短路） | [algorithms/2026-11-12-network-delay-time.py](algorithms/2026-11-12-network-delay-time.py) |
 | 2026-11-13 | 📝 笔记 Note | Python logging 实战：分级、Handler、文件轮转、dictConfig | [notes/2026-11-13-python-logging.md](notes/2026-11-13-python-logging.md) |
 | 2026-11-14 | 🧮 算法 Algorithm | 编辑距离 Edit Distance（二维 DP + 滚动数组 + 回溯操作序列） | [algorithms/2026-11-14-edit-distance.py](algorithms/2026-11-14-edit-distance.py) |
+| 2026-11-15 | 📝 笔记 Note | Python dataclasses 实战：default_factory、__post_init__、frozen/order、asdict/replace | [notes/2026-11-15-python-dataclasses.md](notes/2026-11-15-python-dataclasses.md) |
 
 ## License
 
