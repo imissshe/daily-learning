@@ -20,7 +20,7 @@ daily-learning/
 
 ## 进度 / Progress
 
-已完成 Done: **19** 天 day(s) · 🧮 10 · 📝 9
+已完成 Done: **20** 天 day(s) · 🧮 11 · 📝 9
 
 | 日期 Date | 类型 Type | 标题 Title | 链接 Link |
 |---|---|---|---|
@@ -43,6 +43,7 @@ daily-learning/
 | 2026-11-13 | 📝 笔记 Note | Python logging 实战：分级、Handler、文件轮转、dictConfig | [notes/2026-11-13-python-logging.md](notes/2026-11-13-python-logging.md) |
 | 2026-11-14 | 🧮 算法 Algorithm | 编辑距离 Edit Distance（二维 DP + 滚动数组 + 回溯操作序列） | [algorithms/2026-11-14-edit-distance.py](algorithms/2026-11-14-edit-distance.py) |
 | 2026-11-15 | 📝 笔记 Note | Python dataclasses 实战：default_factory、__post_init__、frozen/order、asdict/replace | [notes/2026-11-15-python-dataclasses.md](notes/2026-11-15-python-dataclasses.md) |
+| 2026-11-16 | 🧮 算法 Algorithm | 滑动窗口最大值 Sliding Window Maximum（单调队列 monotonic deque + 堆对照） | [algorithms/2026-11-16-sliding-window-maximum.py](algorithms/2026-11-16-sliding-window-maximum.py) |
 
 ## License
 
