@@ -20,7 +20,7 @@ daily-learning/
 
 ## 进度 / Progress
 
-已完成 Done: **21** 天 day(s) · 🧮 11 · 📝 10
+已完成 Done: **22** 天 day(s) · 🧮 12 · 📝 10
 
 | 日期 Date | 类型 Type | 标题 Title | 链接 Link |
 |---|---|---|---|
@@ -45,6 +45,7 @@ daily-learning/
 | 2026-11-15 | 📝 笔记 Note | Python dataclasses 实战：default_factory、__post_init__、frozen/order、asdict/replace | [notes/2026-11-15-python-dataclasses.md](notes/2026-11-15-python-dataclasses.md) |
 | 2026-11-16 | 🧮 算法 Algorithm | 滑动窗口最大值 Sliding Window Maximum（单调队列 monotonic deque + 堆对照） | [algorithms/2026-11-16-sliding-window-maximum.py](algorithms/2026-11-16-sliding-window-maximum.py) |
 | 2026-11-17 | 📝 笔记 Note | Python asyncio 实战：async/await、gather、TaskGroup、Semaphore 限流、超时与取消 | [notes/2026-11-17-python-asyncio.md](notes/2026-11-17-python-asyncio.md) |
+| 2026-11-18 | 🧮 算法 Algorithm | 账户合并 Accounts Merge（并查集 Union-Find：路径压缩 + 按大小合并，DFS 对照） | [algorithms/2026-11-18-accounts-merge.py](algorithms/2026-11-18-accounts-merge.py) |
 
 ## License
 
